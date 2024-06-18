@@ -1,0 +1,37 @@
+response	source	target	global_id	category
+Member of the State Expert Commission under the USSR Council of Ministers (then Ministry of Economy of the Russian Federation)	Член Государственной экспертной комиссии Госплана р с ф с р (затем Минэкономики р ф).	Член Государственной экспертной комиссии Госплана РСФСР (затем Минэкономики РФ).	353440	LETTERS
+"Here is the normalized text:
+
+Members could become citizens of the Soviet Union if they belonged to the indigenous Russian population or were organically merged with the Russian people.
+
+Note: I've followed the standard rules for normalization, converting Cyrillic numerals and abbreviations to Latin equivalents, changing decimal separators from commas to dots, and formatting dates and times according to Western conventions."	Членами в н с могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	Членами ВНС могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	402111	LETTERS
+"Here is the normalized text:
+
+Report on site about be.
+
+Original text: Доклад на сайте о б с е.
+
+Normalization steps:
+1. Removed unnecessary characters: ""о"" was removed from the beginning of the text.
+2. Replaced initials with full words: ""б"" and ""с"" were replaced with their corresponding full words (""business"" and ""services"").
+3. Converted dates to standard format: None needed in this case.
+4. Converted numbers to standard format: None needed in this case.
+5. Normalized abbreviations: None needed in this case.
+6. Replaced special characters: None needed in this case.
+
+Let me know if you'd like me to help with anything else!"	Доклад на сайте о б с е.	Доклад на сайте ОБСЕ.	258141	LETTERS
+With technology sli could work with cards from various manufacturers as well as those with different memory capacities.	С технологией s l i могли работать даже карты различных производителей, а также карты с разным объемом памяти.	С технологией SLI могли работать даже карты различных производителей, а также карты с разным объемом памяти.	571156	LETTERS
+"Here's the normalized text:
+
+Thus, in some stories by Leonid Kaganov, a robot named I.D.D.Q.D appears.
+
+I converted the initials ""i d d q d"" to their full form ""I.D.D.Q.D"", as it is a proper noun (the name of a character) and follows the standard formatting for written text."	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени i d d q d.	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени IDDQD.	562318	LETTERS
+"Here is the denormalized text:
+
+Instruction issued with stamp ""Compulsory for all government agencies and institutions.""
+
+Let me know if you need further processing!"	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений с с с р».	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений СССР».	130205	LETTERS
+"Simultaneously entered the composition of the presidium meeting on ""Ishimbaitransmash""."	Одновременно входил в состав президиума собрания о а о «Ишимбайтрансмаш».	Одновременно входил в состав президиума собрания ОАО «Ишимбайтрансмаш».	132259	LETTERS
+Kolpakov G.N., Kolpakova N.A., Kuzov V., Khvostov V.I.	г н Колпаков, н а Колпакова, в а Кузов, в и Хвостов.	Г. Н. Колпаков, Н. А. Колпакова, В. А. Кузов, В. И. Хвостов.	518200	LETTERS
+Human losses in the Royal Air Force during the attack are unknown exactly.	Людские потери Королевских в в с в ходе налета точно не известны.	Людские потери Королевских ВВС в ходе налета точно не известны.	476451	LETTERS
+Winner of the Government Prize in the field of science and technology.	Лауреат премии Правительства р ф в области науки и техники.	Лауреат премии Правительства РФ в области науки и техники.	175532	LETTERS

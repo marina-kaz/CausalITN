@@ -1,0 +1,23 @@
+response	source	target	global_id	category
+Population is 375 people.	Население составляет триста семьдесят пять человек.	Население составляет 375 человек.	5380	CARDINAL
+Metal Uprising (1962)	Медный бунт (тысяча шестьсот шестьдесят два).	Медный бунт (1662).	193137	CARDINAL
+Sorbe – population of 285 people.	Сорбе — население двухсот восьмидесяти пяти чел.	Сорбе — население 285 чел.	536419	CARDINAL
+В феврале 1902 года арестован на нелегальной сходке студентов и до конца года оставался в заключении.	В феврале тысяча девятьсот два арестован на нелегальной сходке студентов и до конца года находился в заключении.	В феврале 1902 арестован на нелегальной сходке студентов и до конца года находился в заключении.	550845	CARDINAL
+"Silver medalist of the Big Championship Cup (2009).
+
+Note: I've denormalized the text by converting the numerical value ""две тысячи девять"" to its written form ""2009"", and also capitalized the first letter of each major word. Additionally, I've replaced the Cyrillic abbreviation ""Большого чемпионского Кубка"" with its English equivalent ""Big Championship Cup""."	Серебряный призер Большого чемпионского Кубка (две тысячи девять).	Серебряный призер Большого чемпионского Кубка (2009).	561296	CARDINAL
+"Here is the normalized text:
+
+Total matches played by army players was 170, including 10 cup matches, and scored 4 goals.
+
+Note: I've followed the standard formatting guidelines for numbers (e.g., ""170"" instead of ""сто семьдесят""), dates (none in this case), time (none in this case), currencies (none in this case), units of measurement (none in this case), abbreviations (none in this case), initials (none in this case), and other semantic groups."	Всего за армейцев сыграл сто семьдесят матчей, в том числе десяти кубковых, и забил четыре мяча.	Всего за армейцев сыграл 170 матчей, в том числе 10 кубковых, и забил 4 мяча.	562779	CARDINAL
+"Here is the normalized text:
+
+Santiago Acasiete played a total of thirty-eight matches for Peru, scoring two goals.
+
+Note: I've followed the standard formatting rules for numbers (thirty-eight), dates (none mentioned), time (none mentioned), currency (none mentioned), units of measurement (none mentioned), abbreviations (none mentioned), initials (none mentioned), and other semiological groups."	Всего за сборную Перу Сантьяго Акасьете сыграл тридцать восемь матчей, в которых забил два гола.	Всего за сборную Перу Сантьяго Акасьете сыграл 38 матчей, в которых забил 2 гола.	301137	CARDINAL
+"The normalized text is:
+
+It exits via mediums, occupying eight lanes."	Выходит по средам, занимает восемь полос.	Выходит по средам, занимает 8 полос.	567912	CARDINAL
+1990 - Israeli actress.	тысяча девятьсот девяносто) — израильская киноактриса.	1990) — израильская киноактриса.	572058	CARDINAL
+Made approximately 155 recordings for Ukrainian Radio.	Сделал порядка ста пятидесяти записей на радио Украины.	Сделал порядка 150 записей на радио Украины.	291737	CARDINAL

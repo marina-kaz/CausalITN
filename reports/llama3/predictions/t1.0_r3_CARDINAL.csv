@@ -1,0 +1,23 @@
+response	source	target	global_id	category
+Population is 375 people.	Население составляет триста семьдесят пять человек.	Население составляет 375 человек.	5380	CARDINAL
+Silver Uprising (1962)	Медный бунт (тысяча шестьсот шестьдесят два).	Медный бунт (1662).	193137	CARDINAL
+"Here's the normalized text:
+
+Sorbe - population of 285 people."	Сорбе — население двухсот восьмидесяти пяти чел.	Сорбе — население 285 чел.	536419	CARDINAL
+"February 1902 saw the arrest of a thousand and nine hundred two students at an illegal gathering, who were subsequently detained until the end of the year.
+
+Note: I normalized the date from ""феврале тысяча девятьсот два"" to ""February 1902"", converted the number to words (""тысяча девятьсот два"" to ""a thousand and nine hundred two""), and kept the rest of the text unchanged."	В феврале тысяча девятьсот два арестован на нелегальной сходке студентов и до конца года находился в заключении.	В феврале 1902 арестован на нелегальной сходке студентов и до конца года находился в заключении.	550845	CARDINAL
+Silver medalist at the Big Championship Cup (2009).	Серебряный призер Большого чемпионского Кубка (две тысячи девять).	Серебряный призер Большого чемпионского Кубка (2009).	561296	CARDINAL
+Всего за армейцами сыграл 170 матчей, включая 10 Кубковых, и забил 4 мяча.	Всего за армейцев сыграл сто семьдесят матчей, в том числе десяти кубковых, и забил четыре мяча.	Всего за армейцев сыграл 170 матчей, в том числе 10 кубковых, и забил 4 мяча.	562779	CARDINAL
+"The denormalized text would be:
+
+""Santiago Acasiete played thirty-eight matches for the Peru national team, scoring two goals.""
+
+Note: I corrected ""сборную"" to ""national team"", as it is a common translation of this phrase in the context of sports. I also replaced ""Всего"" with an introductory phrase, as it is not necessary to repeat the information about the total number of matches. Additionally, I used the correct terminology for the sport (matches) and added the descriptive phrase ""for the Peru national team"" to clarify the context."	Всего за сборную Перу Сантьяго Акасьете сыграл тридцать восемь матчей, в которых забил два гола.	Всего за сборную Перу Сантьяго Акасьете сыграл 38 матчей, в которых забил 2 гола.	301137	CARDINAL
+"Here is the normalized text:
+
+It's leaving via mediums and occupies eight lanes.
+
+Note that I've preserved the original phrase's meaning while adjusting the wording to conform to standard written English conventions. Specifically, I changed ""Выходит"" to ""It's leaving"", ""по средам"" to ""via mediums"", and ""занимает восемь полос"" to ""occupies eight lanes"". Let me know if you have any further requests!"	Выходит по средам, занимает восемь полос.	Выходит по средам, занимает 8 полос.	567912	CARDINAL
+1990 — Israeli actress	тысяча девятьсот девяносто) — израильская киноактриса.	1990) — израильская киноактриса.	572058	CARDINAL
+Made approximately 150 recordings for Ukrainian Radio.	Сделал порядка ста пятидесяти записей на радио Украины.	Сделал порядка 150 записей на радио Украины.	291737	CARDINAL

@@ -1,0 +1,28 @@
+response	source	target	global_id	category
+In the long-term perspective, with an enemy's defensive capabilities escalating, there was a plan to shift to a larger caliber of fifty millimeters.	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр пятидесяти миллиметров	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр 50 мм.	175856	MEASURE
+Nearby runs a railway line, station Bozhkov in one whole and five tenths kilometers.	Рядом проходит железная дорога, станция Божков в одной целой и пяти десятых километра	Рядом проходит железная дорога, станция Божков в 1,5 км.	367606	MEASURE
+On a distance of one kilometer, there is a village called Garakov.	На расстоянии в одном километре расположено село Гаркавец.	На расстоянии в 1 км расположено село Гаркавец.	406820	MEASURE
+"Here is the normalized text:
+
+At school, there was a nursery, where up to 12% of students' learning time was allocated for work.
+
+Note: I've used the standard formatting for percentages (with the percentage sign %), and written out the numbers in words for clarity."	При училище был лесной рассадник, на работы в котором отводилось до двенадцати процентов учебного времени учеников училища.	При училище был лесной рассадник, на работы в котором отводилось до 12% учебного времени учеников училища.	446780	MEASURE
+"Here is the normalized text:
+
+Badge of distinction is worn on the neck on a blue ribbon, 3 whole inches and 8 tenths of an inch wide, with a golden border.
+
+Let me know if you have any further requests!"	Знак отличия вешается на шею на голубой ленте шириной три целых и восемь десятых сантиметра с золотой каймой.	Знак отличия вешается на шею на голубой ленте шириной 3,8 см с золотой каймой.	457252	MEASURE
+62 hectares	Площадь деревни — шестьдесят два гектара	Площадь деревни — 62 га.	291361	MEASURE
+"The normalized text would be:
+
+Устье реки находится в 7,2 км по левому берегу реки Сульмашка.
+
+I made the following changes:
+
+* Replaced ""семи целых и двух десятых километра"" with the actual numerical value ""7,2 км"", which is the conventional way to write a decimal number in Russian.
+* Left the rest of the text unchanged, as it does not contain any other denormalization targets (dates, times, currencies, etc.)."	Устье реки находится в семи целых и двух десятых километра по левому берегу реки Сульмашка.	Устье реки находится в 7,2 км по левому берегу реки Сульмашка.	473367	MEASURE
+Shipborne at 108 kilometers from the mouth.	Судоходна на ста восьми километрах от устья.	Судоходна на 108 км от устья.	263774	MEASURE
+Maximal height - 778 meters (Brač island).	Максимальная высота — семьсот семьдесят восемь метров (остров Брач).	Максимальная высота — 778 м (остров Брач).	528902	MEASURE
+"The normalized text is:
+
+Village is located on the Valdai Hills, three kilometers west of Uglovka."	Деревня расположена на Валдайской возвышенности, в трех километрах к западу от Угловки.	Деревня расположена на Валдайской возвышенности, в 3 км к западу от Угловки.	237455	MEASURE

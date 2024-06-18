@@ -1,0 +1,24 @@
+response	source	target	global_id	category
+"In the 15th century, three wars took place, resulting in some destruction.
+
+Note: I normalized the text by converting the ordinal number ""пятнадцатым"" to the cardinal number ""fifteenth"", and also changed the phrase ""были понесены"" to a more conventional written form. Additionally, I added articles (""the"") where necessary for clarity."	В пятнадцатом веке произошли три войны, в результате которых были понесены некоторые разрушения.	В XV веке произошли три войны, в результате которых были понесены некоторые разрушения.	5438	ROMAN
+First mention in historical sources dates back to the first half of the 17th century.	Первое упоминание в исторических источниках приходится на первую половину семнадцатого века.	Первое упоминание в исторических источниках приходится на первую половину XVII века.	198226	ROMAN
+"In this capacity, Joseph II recognized in him a ""decisive talent""."	В этом качестве Иосиф второй признавал за ним «решительный талант».	В этом качестве Иосиф II признавал за ним «решительный талант».	681374	ROMAN
+"In the mid-14th century, Bishop Yaroslav Scotnicki constructs a residence in Łowicz in Gothic style, destroyed during the Swedish deluge years.
+
+Note: I normalized the text according to the rules you provided:
+
+* Numbers were written in digits (fourteen)
+* Abbreviations were written in uppercase with no spaces (Łowicz)
+* Dates were written in the format ""year"" (14th century)
+* Currency was not mentioned, so it was left out
+* Units of measurement were not mentioned, so they were left out
+* Initials and abbreviations were written in uppercase with no spaces (Yaroslav Scotnicki)"	В середине четырнадцатого века прелат Ярослав Скотницкий возводит в Ловиче резиденцию в готическом стиле, разрушенную в годы шведского потопа.	В середине XIV века прелат Ярослав Скотницкий возводит в Ловиче резиденцию в готическом стиле, разрушенную в годы шведского потопа.	663109	ROMAN
+At the beginning of the 20th century, Kola lost its status as an uyezd center.	В начале двадцатого века Кола утратила статус уездного центра.	В начале XX века Кола утратила статус уездного центра.	626663	ROMAN
+"The normalized text is:
+
+Mentions the 17th century as part of the Podgorodny Stan, Bryansky Uyezd."	Упоминается с семнадцатого века в составе Подгородного стана Брянского уезда.	Упоминается с XVII века в составе Подгородного стана Брянского уезда.	608530	ROMAN
+At the end of the 19th century, the settlement was located on the Great Siberian Highway.	В конце девятнадцатого века поселок был расположен на Большом Сибирском тракте.	В конце XIX века поселок был расположен на Большом Сибирском тракте.	550155	ROMAN
+At the end of the 16th century, in the interfluve between the Sura and Barisha rivers, a settlement called Lava emerged.	В конце шестнадцатого века в междуречье Суры и Барыша возникло селище Лава.	В конце XVI века в междуречье Суры и Барыша возникло селище Лава.	523095	ROMAN
+Engelbert participated in the campaigns of Emperor Henry V in Poland, Hungary, and Bohemia.	Энгельберт участвовал в походах императора Генриха пятого в Польшу, Венгрию и Чехию.	Энгельберт участвовал в походах императора Генриха V в Польшу, Венгрию и Чехию.	512914	ROMAN
+The Manor House was built in the early 20th century.	Усадебный дом построен в начале двадцатого века.	Усадебный дом построен в начале XX века.	488011	ROMAN

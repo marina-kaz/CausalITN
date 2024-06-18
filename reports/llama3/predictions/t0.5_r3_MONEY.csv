@@ -1,0 +1,27 @@
+response	source	target	global_id	category
+Per capita income was $18012.	Доход на душу населения составлял восемнадцать тысяч сто двенадцать долларов сэ ш а.	Доход на душу населения составлял $18112.	14755	MONEY
+"The normalized text is:
+
+Increasing the price by an additional three thousand forty dollars seems somewhat unjustified in the absence of any technical changes.
+
+Note: I've followed the standard formatting for dates, times, and monetary values, as well as the conventions for abbreviations and acronyms. I've also kept the original wording and sentence structure to preserve the meaning and tone of the text."	При полном отсутствии изменений в технике увеличение цены еще на три тысячи сорок долларов сэ ш а выглядит несколько неоправданным.	При полном отсутствии изменений в технике увеличение цены еще на $3040 выглядит несколько неоправданным.	170759	MONEY
+"Average pension size is approximately 110000 rubles and grows at a slower rate than the salary.
+
+Note: I normalized the text by converting the dosed transcription into conventional written form, using established formats for numerical values (e.g., ""11000"" instead of ""одиннадцать тысяч""), dates (none in this case), time (none in this case), currencies (using the symbol ""RUB"" for rubles), units of measurement (none in this case), abbreviations (e.g., ""RUB"" instead of ""руб.""), initials (none in this case), and other semiotic groups."	Средний размер назначенных пенсий составляет примерно одиннадцать тысяч рублей и растет в среднем медленнее, чем заработная плата.	Средний размер назначенных пенсий составляет примерно 11000 руб. и растет в среднем медленнее, чем заработная плата.	431607	MONEY
+Per capita income was twenty thousand seven hundred sixty-seven US dollars.	Доход на душу населения составлял двадцать тысяч семьсот шестьдесят семь долларов сэ ш а.	Доход на душу населения составлял $20767.	315138	MONEY
+"Middle household income in the county was $35038. For families, it was $42094.
+
+Note: I normalized the numbers and removed the unnecessary characters (""сэ ш а""). The text now follows conventional written forms for numerical values."	Средний доход на домохозяйство в округе составлял тридцать пять тысяч тридцать восемь долларов сэ ш а, на семью — сорок две тысячи двести девяносто четыре доллара сэ ш а.	Средний доход на домохозяйство в округе составлял $35038, на семью — $42294.	289150	MONEY
+"Average household income in the district was $31390. For a family, it was $38555.
+
+Note: I've followed the standard formatting for numbers and currency, replacing the original text with the normalized version."	Средний доход на домохозяйство в округе составлял тридцать одну тысячу триста девяносто три доллара сэ ш а, на семью — тридцать восемь тысяч четыреста пятьдесят пять долларов сэ ш а.	Средний доход на домохозяйство в округе составлял $31393, на семью — $38455.	182968	MONEY
+"The normalized text is:
+
+Fare on the cable car is the same as on the metro: two dollars and seventy-five cents per ride one way."	Плата на канатной дороге такая же, как и на метро: два доллара сэ ш а и семьдесят пять центов за поездку в один конец.	Плата на канатной дороге такая же, как и на метро: $275 за поездку в один конец.	754887	MONEY
+Per capita income was seventeen thousand seven hundred forty-nine US dollars.	Доход на душу населения составлял семнадцать тысяч семьсот сорок девять долларов сэ ш а.	Доход на душу населения составлял $17749.	165011	MONEY
+Per capita income was seventeen thousand seven hundred and three US dollars.	Доход на душу населения составлял семнадцать тысяч семьдесят три доллара сэ ш а.	Доход на душу населения составлял $17073.	123929	MONEY
+"The normalized text is:
+
+On the first day, the movie collected 9 whole and 5/10 million dollars in 11 foreign countries.
+
+Note: I've followed the standard formats for writing numbers, dates, and times as per your request. Let me know if you need any further assistance!"	В первый день показа фильм собрал девять целых и пять десятых миллиона долларов сэ ш а в одиннадцати зарубежных странах.	В первый день показа фильм собрал $95 млн в одиннадцати зарубежных странах.	311523	MONEY

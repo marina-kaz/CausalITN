@@ -1,0 +1,4 @@
+FROM /usr/share/ollama/.ollama/models/blobs/sha256-1cecc26325a197571a1961bfacf64dc6e35e0f05faf57d3c6941a982e1eb2e1d
+TEMPLATE {{ .System }}<|end_of_turn|>GPT4 Correct User: {{ .Prompt }}<|end_of_turn|>GPT4 Correct Assistant:
+PARAMETER stop <|endoftext|>
+PARAMETER stop <|end_of_turn|>

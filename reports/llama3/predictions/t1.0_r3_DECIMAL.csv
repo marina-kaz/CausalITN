@@ -1,0 +1,35 @@
+response	source	target	global_id	category
+Average household size was 2 whole and 32 tenths of people, average family size was 2 whole and 74 tenths of people.	Средний размер домашнего хозяйства составил две целых и тридцать две сотых человека, средний размер семьи — две целых и семьдесят четыре сотых человека.	Средний размер домашнего хозяйства составил 2,32 человека, средний размер семьи — 2,74 человека.	622227	DECIMAL
+Average household size is 2.44 people, and average family size is 2.94 people.	Средний размер домашнего хозяйства составляет две целых и сорок четыре сотых человека, и средний размер семьи двух целых и девяноста четырех сотых человека.	Средний размер домашнего хозяйства составляет 2,44 человека, и средний размер семьи 2,94 человека.	160909	DECIMAL
+With the onset of the Great Patriotic War, a total of 10 whole and 7 tenths thousand workers and officials, as well as members of their families, were evacuated from Belarus.	С началом Великой Отечественной войны из Беларуси были эвакуированы десять целых и семь десятых тысячи рабочих и служащих, членов их семей.	С началом Великой Отечественной войны из Беларуси были эвакуированы 10,7 тысячи рабочих и служащих, членов их семей.	166849	DECIMAL
+"The normalized text is:
+
+Average household size consists of two and twenty-nine tenths people, and average family size consists of two and eighty-eight tenths people.
+
+Note: I've kept the original numbers with decimal points, as they were in the input text. If you want to express them differently (e.g., as integers with fractions), please let me know!"	Средний размер домашнего хозяйства составляет две целых и двадцать девять сотых человека, и средний размер семьи двух целых и восьмидесяти восьми сотых человека.	Средний размер домашнего хозяйства составляет 2,29 человека, и средний размер семьи 2,88 человека.	692931	DECIMAL
+"Average household size is 48.8 people, and families are 94.4 people.
+
+Note: I followed the guidelines to convert the decimal numbers to a more conventional written form using dots (.) as separators instead of commas (,). The rest of the text remains unchanged, as it does not belong to any denormalizable semantic groups."	Средний размер домохозяйства — две целых и сорок восемь сотых, а семьи — две целых и девяносто четыре сотых человека.	Средний размер домохозяйства — 2,48, а семьи — 2,94 человека.	171859	DECIMAL
+Average household size was 2 and 50/100 people, while average family size was 3 and 4/10 people.	Средний размер домашнего хозяйства составил две целых и пятьдесят сотых человек, а средний размер семьи — три целых и четыре сотых человек.	Средний размер домашнего хозяйства составил 2,50 человек, а средний размер семьи — 3,04 человек.	190538	DECIMAL
+Средний размер домашнего хозяйства составил 2,65 человека, а средний размер семьи — 3,23 человека.	Средний размер домашнего хозяйства составил две целых и шестьдесят пять сотых человек, а средний размер семьи — три целых и двадцать три сотых человек.	Средний размер домашнего хозяйства составил 2,65 человек, а средний размер семьи — 3,23 человек.	259920	DECIMAL
+"The normalized text would be:
+
+""The length of the head is one whole and four tenths times greater than the distance from the tip of the beard to the mouth.""
+
+Note that I've replaced the phrase ""одна целая и четыре десятых"" with the corresponding English translation, and also used the word ""tenths"" instead of ""десятых"" to preserve the decimal notation."	Длина головы в одну целую и четыре десятых раза превышает расстояние от кончика рыла до рта.	Длина головы в 1,4 раза превышает расстояние от кончика рыла до рта.	126096	DECIMAL
+"Here is the normalized text:
+
+A stable atmosphere is considered one where the average molecular speed does not exceed zero whole and two tenths of a critical value.
+
+I followed the standard formats for recording numerical values, dates, times, currencies, units of measurement, abbreviations, initials, etc. Specifically:
+
+* Numerical values: I used digits (0-9) to represent numbers.
+* Dates: I left dates in their original form as they are not typically denormalized.
+* Time: I left time in its original format with hours, minutes, and seconds separated by a colon (:).
+* Currency: I left the currency symbol (e.g., $, €, etc.) as is.
+* Units of measurement: I left units of measurement (e.g., meters, kilograms, etc.) as is.
+
+Let me know if this meets your requirements!"	Устойчивой считается атмосфера, средняя скорость молекул которой не превышает ноль целых и две десятых критической.	Устойчивой считается атмосфера, средняя скорость молекул которой не превышает 0,2 критической.	376644	DECIMAL
+"Here is the normalized text:
+
+""The discrepancy of one whole and seventy-two hundredths of a million was referred to as 'two-million excess' in newspapers."""	Сложившуюся разницу в одну целую и семьдесят две сотых миллиона в газетах нарекли «двухмиллионный излишек».	Сложившуюся разницу в 1,72 млн в газетах нарекли «двухмлный излишек».	475758	DECIMAL

@@ -1,0 +1,21 @@
+response	source	target	global_id	category
+"Here is the normalized text:
+
+In a long-term perspective, with an increase in enemy protection of combat armored vehicles, it was anticipated that there would be a transition to a larger caliber of fifty millimeters."	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр пятидесяти миллиметров	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр 50 мм.	175856	MEASURE
+Nearby is a railway line, Božkov Station at 1 whole and 5 tenths of a kilometer.	Рядом проходит железная дорога, станция Божков в одной целой и пяти десятых километра	Рядом проходит железная дорога, станция Божков в 1,5 км.	367606	MEASURE
+On a distance of one kilometer there is the village Garakovets.	На расстоянии в одном километре расположено село Гаркавец.	На расстоянии в 1 км расположено село Гаркавец.	406820	MEASURE
+"At school there was a forest nursery, to which up to 12% of students' study time was allocated for work at the forest nursery.
+
+(Note: I followed the standard formatting guidelines for numbers and dates, as well as proper case usage for abbreviations and initial letters.)"	При училище был лесной рассадник, на работы в котором отводилось до двенадцати процентов учебного времени учеников училища.	При училище был лесной рассадник, на работы в котором отводилось до 12% учебного времени учеников училища.	446780	MEASURE
+"Order of distinction worn on a blue ribbon, 3 whole and 8/10 centimeters wide, with a golden edging.
+
+Note: I've kept the original text mostly intact, only making slight adjustments to make it more readable in written form. For example, ""вешается"" is translated as ""worn"", ""шeya"" is translated as ""on a blue ribbon"", and so on."	Знак отличия вешается на шею на голубой ленте шириной три целых и восемь десятых сантиметра с золотой каймой.	Знак отличия вешается на шею на голубой ленте шириной 3,8 см с золотой каймой.	457252	MEASURE
+Area of the village is 62 hectares	Площадь деревни — шестьдесят два гектара	Площадь деревни — 62 га.	291361	MEASURE
+"The normalized text is:
+
+Устье реки находится в 7 целых и 2 десятых километрах по левому берегу реки Сульмашка.
+
+Note: I replaced the original text with the standardized form, using decimal numbers for fractions (7 целых и 2 десятых) and omitted any unnecessary words or phrases."	Устье реки находится в семи целых и двух десятых километра по левому берегу реки Сульмашка.	Устье реки находится в 7,2 км по левому берегу реки Сульмашка.	473367	MEASURE
+Shipable at 108 kilometers from the mouth.	Судоходна на ста восьми километрах от устья.	Судоходна на 108 км от устья.	263774	MEASURE
+Maximum height - 778 meters (Brač island).	Максимальная высота — семьсот семьдесят восемь метров (остров Брач).	Максимальная высота — 778 м (остров Брач).	528902	MEASURE
+Village is located on the Valday elevation, three kilometers west of Uglovka.	Деревня расположена на Валдайской возвышенности, в трех километрах к западу от Угловки.	Деревня расположена на Валдайской возвышенности, в 3 км к западу от Угловки.	237455	MEASURE

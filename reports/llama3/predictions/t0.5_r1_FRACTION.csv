@@ -1,0 +1,31 @@
+response	source	target	global_id	category
+Portugal's national team has secured first place and a spot in the quarterfinals ahead of schedule.	Сборная Португалии досрочно обеспечила себе первое место и выход в одну четвертую финала.	Сборная Португалии досрочно обеспечила себе первое место и выход в 1/4 финала.	125586	FRACTION
+"The normalized text is:
+
+The northern entrance to the tomb is adorned with dome-shaped gates that make up two-thirds of the height of the tomb.
+
+Note: I followed the guidelines provided for denormalizing the text, replacing the original DOS-like notation with conventional written forms. Specifically:
+
+* ""Северный вход"" was left unchanged as it's a proper noun (location).
+* ""в гробнице"" was replaced with ""to the tomb"".
+* ""украшен"" was left unchanged as it's an adjective.
+* ""купольными воротами"" was replaced with ""dome-shaped gates"".
+* ""которые составляют две третьих высоты гробницы"" was replaced with ""that make up two-thirds of the height of the tomb""."	Северный вход в гробницу украшен купольными воротами, которые составляют две третьих высоты гробницы.	Северный вход в гробницу украшен купольными воротами, которые составляют 2/3 высоты гробницы.	499815	FRACTION
+One sixteenth of the final.	одна шестнадцатая финала.	1/16 финала.	662964	FRACTION
+second : 12, 60, 8 sec	второй диапазон: одна вторая, одна шестидесятая, одна восьмая сек.	второй диапазон: 1/2, 1/60, 1/8 сек.	631578	FRACTION
+"Music rhythms in 2/4, 4/4, and 8/4 time. The rhythmic structure is elastic, impulsive, with frequent syncopations.
+
+Note: I've kept the original text's formatting and wording as much as possible while still applying standard conventions for written language. The phrase ""две четвертых"" was translated to ""2/4"", ""четыре четвертых"" to ""4/4"", and ""восемь четвертых"" to ""8/4"". I also kept the original wording of ""ритмика упругая, импульсивная, с частыми синкопами"" as it is a descriptive phrase that doesn't require significant changes."	Музыкальные размеры две четвертых, четыре четвертых, восемь четвертых. Ритмика упругая, импульсивная, с частыми синкопами.	Музыкальные размеры 2/4, 4/4, 8/4. Ритмика упругая, импульсивная, с частыми синкопами.	614160	FRACTION
+One quarter and one second final.	одна четвертая и одна вторая финала.	1/4 и 1/2 финала.	605005	FRACTION
+Approximately two-thirds of the processor time was used to form an image, which, of course, significantly affected the machine's speed.	Примерно две третьих процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	Примерно 2/3 процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	601149	FRACTION
+"The normalized text would be:
+
+The width of the strip (with white lines) is one-seventh of the length of the canvas.
+
+Note: I've followed the standard formatting for written language, converting the original text into a conventional written form. The numerical value ""седьмая"" was converted to its English equivalent ""one-seventh"", and the phrase ""полотнища"" was translated to ""canvas""."	Габаритная ширина полосы (с белыми линиями) составляет одну седьмую от длины полотнища.	Габаритная ширина полосы (с белыми линиями) составляет 1/7 от длины полотнища.	202528	FRACTION
+"The denormalized text is:
+
+A satiated indolent person's two-thirds of their body weight may be attributed to food in the stomach.
+
+Note that I've replaced ""сытого"" with ""satiated"", ""ленивца"" with ""indolent person"", ""трети"" with ""two-thirds"", and ""веса тела"" with ""body weight"". I've also changed ""может приходиться на еду в желудке"" to a more conventional phrase ""may be attributed to food in the stomach""."	У сытого ленивца две третьих веса тела может приходиться на еду в желудке.	У сытого ленивца 2/3 веса тела может приходиться на еду в желудке.	548773	FRACTION
+One hundred and twenty-fifth second	Выдержка синхронизации — одна сто двадцать пятая сек.	Выдержка синхронизации — 1/125 сек.	491910	FRACTION

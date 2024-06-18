@@ -1,0 +1,43 @@
+response	source	target	global_id	category
+"Here is the normalized text:
+
+The Portuguese national team has ensured themselves a first-place finish and a spot in the quarterfinals ahead of schedule."	Сборная Португалии досрочно обеспечила себе первое место и выход в одну четвертую финала.	Сборная Португалии досрочно обеспечила себе первое место и выход в 1/4 финала.	125586	FRACTION
+"The normalized text is:
+
+The northern entrance to the tomb is adorned with dome-shaped gates that account for two-thirds of the height of the tomb.
+
+Note: I've applied the standard norms and conventions for written Russian language, converting the ASR output into a conventional written form. I've changed ""Северный вход в гробницу украшен купольными воротами"" to ""The northern entrance to the tomb is adorned with dome-shaped gates"", converted ""которые составляют две третьих высоты гробницы"" to ""that account for two-thirds of the height of the tomb""."	Северный вход в гробницу украшен купольными воротами, которые составляют две третьих высоты гробницы.	Северный вход в гробницу украшен купольными воротами, которые составляют 2/3 высоты гробницы.	499815	FRACTION
+One sixteenth finale.	одна шестнадцатая финала.	1/16 финала.	662964	FRACTION
+second : 1:22.8	второй диапазон: одна вторая, одна шестидесятая, одна восьмая сек.	второй диапазон: 1/2, 1/60, 1/8 сек.	631578	FRACTION
+"Here is the denormalized text:
+
+Musical measures: two quarters, four quarters, eight quarters. Rhythm is springy, impulsive, with frequent syncopations.
+
+Note: I've replaced ""четвертых"" with the English term ""quarters"", as it's a common way to refer to musical time signatures in English-speaking countries."	Музыкальные размеры две четвертых, четыре четвертых, восемь четвертых. Ритмика упругая, импульсивная, с частыми синкопами.	Музыкальные размеры 2/4, 4/4, 8/4. Ритмика упругая, импульсивная, с частыми синкопами.	614160	FRACTION
+One quarter and one second finals.	одна четвертая и одна вторая финала.	1/4 и 1/2 финала.	605005	FRACTION
+"Here is the normalized text:
+
+ Approximately two-thirds of processor time was used to form an image, which, of course, had a significant impact on machine performance.
+
+Note: I've followed the standard formatting for numbers (e.g., ""two-thirds"" instead of ""две трети""), and also adjusted some wordings to make it more natural in written English."	Примерно две третьих процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	Примерно 2/3 процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	601149	FRACTION
+"The normalized text is:
+
+The gauge width of the lane (with white lines) is one-seventh of the length of the canvas.
+
+Note: I've maintained the original meaning and wording, but applied standard spelling, punctuation, and formatting to make it more readable and conventional for written text."	Габаритная ширина полосы (с белыми линиями) составляет одну седьмую от длины полотнища.	Габаритная ширина полосы (с белыми линиями) составляет 1/7 от длины полотнища.	202528	FRACTION
+"A sentence that needs some denormalization magic!
+
+Here's the result:
+
+The satiated sloth has two-thirds of its body weight attributed to food in the stomach.
+
+I've applied the following normalization rules:
+
+* ""Сытый"" is translated as ""satiated""
+* ""ленивца"" is translated as ""sloth""
+* ""две третьих"" is normalized to ""two-thirds""
+* ""веса тела"" is simplified to ""body weight""
+* ""может приходиться на еду в желудке"" is rewritten as ""attributed to food in the stomach""
+
+The output text is now a grammatically correct and idiomatic sentence in English."	У сытого ленивца две третьих веса тела может приходиться на еду в желудке.	У сытого ленивца 2/3 веса тела может приходиться на еду в желудке.	548773	FRACTION
+20:25	Выдержка синхронизации — одна сто двадцать пятая сек.	Выдержка синхронизации — 1/125 сек.	491910	FRACTION

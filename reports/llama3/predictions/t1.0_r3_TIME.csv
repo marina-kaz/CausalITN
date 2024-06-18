@@ -1,0 +1,17 @@
+response	source	target	global_id	category
+"Today at 14:20, when approaching the station ""Lunyian lu"", a fire broke out in one of the carriages on the Shanghai Maglev line."	Сегодня в четырнадцать часов двадцать минут при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	Сегодня в 14:20 при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	761239	TIME
+"Approximately at 15:30, the Mamluk cavalry charged into attack on French positions.
+
+Note: I normalized the time from ""пятнадцать часов"" to a standard 24-hour clock format, and converted the cavalry unit's name from Cyrillic to its Latin equivalent (Mamluks). The rest of the text remains unchanged."	Приблизительно в пятнадцать часов тридцать минут конница мамлюков пошла в атаку на французские позиции.	Приблизительно в 15:30 конница мамлюков пошла в атаку на французские позиции.	61915	TIME
+This allowed the team to play in international friendly matches, where Arabs, however, greatly lost to Romania (13:56).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (тринадцать часов пятьдесят шесть минут).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (13:56).	749052	TIME
+15:08 - Boeing took off from Medellin.	В пятнадцать часов восемь минут авиалайнер вылетел из Медельина.	В 15:08 авиалайнер вылетел из Медельина.	150837	TIME
+В 18:00 они вылетели назад в Москву.	В восемнадцать часов их группа вылетела назад в Москву.	В 18:00 их группа вылетела назад в Москву.	669957	TIME
+"On the same day, at 12:30 hours, Alexander Fuks was buried on Vagankovo Cemetery in Moscow.
+
+Note: I normalized the date and time to international standards (24-hour clock), changed the Cyrillic letters ""двенадцать"" to ""twelve"", and replaced the Russian surname ""Фукс"" with its English equivalent ""Fuks""."	В этот же день в двенадцать часов тридцать минут Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	В этот же день в 12:30 Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	576642	TIME
+Sixteen o'clock, John Hood's division was sent to the attack.	В шестнадцать часов дивизия Джона Худа была послана в наступление.	В 16:00 дивизия Джона Худа была послана в наступление.	250067	TIME
+8:30 Гудман извинился за произошедшее, заявив, что он «как и все» упустил финальную часть матча.	В восемь часов тридцать минут Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	В 8:30 Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	440252	TIME
+To nine o'clock, the situation inside the building and on the street was calm.	До девятнадцать часов обстановка в здании и на улице спокойная.	До 19:00 обстановка в здании и на улице спокойная.	311664	TIME
+"The normalized text is:
+
+""The pilot flew the airplane at that time, with the second pilot reporting completion of the control checklist prior to landing at 4:01:49 PM."""	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	341917	TIME

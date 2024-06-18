@@ -1,0 +1,23 @@
+response	source	target	global_id	category
+Per capita income was $18012.	Доход на душу населения составлял восемнадцать тысяч сто двенадцать долларов сэ ш а.	Доход на душу населения составлял $18112.	14755	MONEY
+"The normalized text is:
+
+The price increase of three thousand forty dollars at this point without any changes in technology looks somewhat unjustified.
+
+Note: I normalized the dates, currency (changed ""сэ"" to ""$""), and units of measurement (e.g., changed ""тысяча"" to ""thousand""). I also reformatted the sentence structure to make it more natural and readable."	При полном отсутствии изменений в технике увеличение цены еще на три тысячи сорок долларов сэ ш а выглядит несколько неоправданным.	При полном отсутствии изменений в технике увеличение цены еще на $3040 выглядит несколько неоправданным.	170759	MONEY
+"Average pension size is approximately 110000 rubles and grows slower than the average salary.
+
+Note: I normalized the text by replacing ""одиннадцать тысяч"" with numerical value (110000), converting ""рубль"" to the abbreviation ""rubles"", and changing the sentence structure for better readability."	Средний размер назначенных пенсий составляет примерно одиннадцать тысяч рублей и растет в среднем медленнее, чем заработная плата.	Средний размер назначенных пенсий составляет примерно 11000 руб. и растет в среднем медленнее, чем заработная плата.	431607	MONEY
+Income per capita was twenty thousand seven hundred sixty-seven dollars USD.	Доход на душу населения составлял двадцать тысяч семьсот шестьдесят семь долларов сэ ш а.	Доход на душу населения составлял $20767.	315138	MONEY
+Average household income in the county was $35038 per household and $42094 per family.	Средний доход на домохозяйство в округе составлял тридцать пять тысяч тридцать восемь долларов сэ ш а, на семью — сорок две тысячи двести девяносто четыре доллара сэ ш а.	Средний доход на домохозяйство в округе составлял $35038, на семью — $42294.	289150	MONEY
+"Average household income in the district was $31390. For a family of seven, it was $38555.
+
+Note: I normalized the numbers and currency according to conventional written form standards."	Средний доход на домохозяйство в округе составлял тридцать одну тысячу триста девяносто три доллара сэ ш а, на семью — тридцать восемь тысяч четыреста пятьдесят пять долларов сэ ш а.	Средний доход на домохозяйство в округе составлял $31393, на семью — $38455.	182968	MONEY
+Payment on the aerial tramway is the same as at the metro: $275 for a one-way trip.	Плата на канатной дороге такая же, как и на метро: два доллара сэ ш а и семьдесят пять центов за поездку в один конец.	Плата на канатной дороге такая же, как и на метро: $275 за поездку в один конец.	754887	MONEY
+Per capita income was seventeen thousand seven hundred forty-nine US dollars.	Доход на душу населения составлял семнадцать тысяч семьсот сорок девять долларов сэ ш а.	Доход на душу населения составлял $17749.	165011	MONEY
+Per capita income was seventeen thousand seventy-three US dollars.	Доход на душу населения составлял семнадцать тысяч семьдесят три доллара сэ ш а.	Доход на душу населения составлял $17073.	123929	MONEY
+"Here's the normalized text:
+
+On the first day, the film grossed nine million and five tenths dollars in 11 foreign countries.
+
+Let me know if you'd like me to explain any specific normalization decisions I made!"	В первый день показа фильм собрал девять целых и пять десятых миллиона долларов сэ ш а в одиннадцати зарубежных странах.	В первый день показа фильм собрал $95 млн в одиннадцати зарубежных странах.	311523	MONEY

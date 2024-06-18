@@ -1,0 +1,36 @@
+response	source	target	global_id	category
+"Here is the normalized text:
+
+Today at 14:20, a fire broke out in one of the carriages on the Shanghai maglev as it approached the ""Lunyang Lu"" station.
+
+Note: I've kept the original text mostly intact, only making changes to the time and date notation to conform to standard written forms."	Сегодня в четырнадцать часов двадцать минут при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	Сегодня в 14:20 при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	761239	TIME
+"Here is the normalized text:
+
+Approximately at 15:30, the Mamluk cavalry advanced on French positions.
+
+Note that I've used the standard 24-hour clock format for the time (15:30), replaced "" Priблизительно в"" with ""Approximately at"", and changed ""конница мамлюков пошла в атаку на"" to a more direct phrase. The rest of the text remained unchanged, as it didn't contain any semiological groups that needed normalization."	Приблизительно в пятнадцать часов тридцать минут конница мамлюков пошла в атаку на французские позиции.	Приблизительно в 15:30 конница мамлюков пошла в атаку на французские позиции.	61915	TIME
+This allowed the team to play in international friendly matches, where Arabs, incidentally, were greatly outplayed by Romania (13:56).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (тринадцать часов пятьдесят шесть минут).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (13:56).	749052	TIME
+15:08 - Boeing 737 took off from Medellín.	В пятнадцать часов восемь минут авиалайнер вылетел из Медельина.	В 15:08 авиалайнер вылетел из Медельина.	150837	TIME
+18:00 Their group departed back to Moscow.	В восемнадцать часов их группа вылетела назад в Москву.	В 18:00 их группа вылетела назад в Москву.	669957	TIME
+"On the same day at 12:30 Alexanndr Fuchs was buried at the Vagankovskoe Cemetery in Moscow.
+
+Note:
+
+* ""В этот же день"" remains unchanged as it is not a numeral, date, time, currency, unit of measurement, abbreviation, or initial that requires normalization.
+* ""двенадцать"" is written in full instead of using numerals (12).
+* ""часов"" and ""минут"" remain unchanged as they are units of time that do not require normalization.
+* ""Александр"" remains unchanged as it is a proper noun that does not require normalization.
+* ""Фукс"" remains unchanged as it is a surname that does not require normalization.
+* ""был похоронен"" remains unchanged as it is a verb phrase that does not require normalization.
+* ""на Ваганьковском кладбище"" remains unchanged as it is a proper noun that does not require normalization.
+* ""в Москве"" remains unchanged as it is a proper noun that does not require normalization."	В этот же день в двенадцать часов тридцать минут Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	В этот же день в 12:30 Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	576642	TIME
+Sixteen hours division of John Hood was sent to an attack.	В шестнадцать часов дивизия Джона Худа была послана в наступление.	В 16:00 дивизия Джона Худа была послана в наступление.	250067	TIME
+"Here is the denormalized text:
+
+At 8:30 a.m., Goodman released a statement in which he apologized for what happened, saying that ""just like everyone"" missed the game's conclusion.
+
+Let me know if this meets your expectations!"	В восемь часов тридцать минут Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	В 8:30 Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	440252	TIME
+Until 19:00, the situation in the building and on the street was calm.	До девятнадцать часов обстановка в здании и на улице спокойная.	До 19:00 обстановка в здании и на улице спокойная.	311664	TIME
+"The normalized text is:
+
+The co-pilot piloted the plane at that time and at 16:01:49, reported completing a pre-landing check list before landing."	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	341917	TIME

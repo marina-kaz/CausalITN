@@ -1,0 +1,43 @@
+response	source	target	global_id	category
+Per capita income was eighteen thousand one hundred twelve US dollars.	Доход на душу населения составлял восемнадцать тысяч сто двенадцать долларов сэ ш а.	Доход на душу населения составлял $18112.	14755	MONEY
+"The normalized text is:
+
+Despite the absence of any changes in technology, an increase in price by three thousand forty dollars seems unjustified.
+
+Note: I followed the usual conventions for writing dates (e.g., ""January 12022"" instead of ""01/01/22""), numbers (e.g., ""three thousand forty dollars"" instead of ""$304000""), and abbreviations (e.g., ""sé"" instead of ""se"") to make the text more readable."	При полном отсутствии изменений в технике увеличение цены еще на три тысячи сорок долларов сэ ш а выглядит несколько неоправданным.	При полном отсутствии изменений в технике увеличение цены еще на $3040 выглядит несколько неоправданным.	170759	MONEY
+"The normalized text is:
+
+Average pension size is approximately 11 thousand rubles and grows at a slower rate than the salary.
+
+Note that I've maintained the original phrase ""оценочно"" as it's not related to the denormalizable semiotic classes (numbers, dates, times, etc.)."	Средний размер назначенных пенсий составляет примерно одиннадцать тысяч рублей и растет в среднем медленнее, чем заработная плата.	Средний размер назначенных пенсий составляет примерно 11000 руб. и растет в среднем медленнее, чем заработная плата.	431607	MONEY
+Income per capita was $2076767.	Доход на душу населения составлял двадцать тысяч семьсот шестьдесят семь долларов сэ ш а.	Доход на душу населения составлял $20767.	315138	MONEY
+"The normalized text is:
+
+Median household income in the county was thirty-five thousand three hundred eighty dollars per capita. For a family of seven, it was forty-two thousand two hundred ninety-four dollars per capita.
+
+Note: I've applied the following normalization rules:
+
+* Numerical values were written out in digits (e.g., 35000 instead of ""тридцать пять тысяч"")
+* Abbreviations for thousands and hundreds were removed (e.g., ""тысячи"" and ""сотен"" became simply ""thousand"" and ""hundred"")
+* Dashes (-) were replaced with spaces ( ) to improve readability
+* The phrase ""сэ ш а"" is unclear, so I left it in its original form as it appears to be some sort of notation or abbreviation. If you could provide more context about what this phrase represents, I'd be happy to help further normalize the text."	Средний доход на домохозяйство в округе составлял тридцать пять тысяч тридцать восемь долларов сэ ш а, на семью — сорок две тысячи двести девяносто четыре доллара сэ ш а.	Средний доход на домохозяйство в округе составлял $35038, на семью — $42294.	289150	MONEY
+"Here is the normalized text:
+
+The average household income in the district was $31390. For a family, it was $38555.
+
+Note: I've kept the numbers in the original format to avoid any potential formatting issues, but I could convert them to decimal or scientific notation if needed. Let me know!"	Средний доход на домохозяйство в округе составлял тридцать одну тысячу триста девяносто три доллара сэ ш а, на семью — тридцать восемь тысяч четыреста пятьдесят пять долларов сэ ш а.	Средний доход на домохозяйство в округе составлял $31393, на семью — $38455.	182968	MONEY
+Payment on the cable car is the same as on the metro: two dollars and seventy-five cents per ride to one direction.	Плата на канатной дороге такая же, как и на метро: два доллара сэ ш а и семьдесят пять центов за поездку в один конец.	Плата на канатной дороге такая же, как и на метро: $275 за поездку в один конец.	754887	MONEY
+Income per capita was seventeen thousand seven hundred forty-nine dollars USD.	Доход на душу населения составлял семнадцать тысяч семьсот сорок девять долларов сэ ш а.	Доход на душу населения составлял $17749.	165011	MONEY
+Per capita income was seventeen thousand seven hundred and three US dollars.	Доход на душу населения составлял семнадцать тысяч семьдесят три доллара сэ ш а.	Доход на душу населения составлял $17073.	123929	MONEY
+"The normalized text is:
+
+On the first day, the movie collected 9 whole and 5 tenths of a million dollars in 11 foreign countries.
+
+Note: I've applied the standard formatting rules for numbers, dates, times, currencies, units of measurement, abbreviations, initials, etc. as follows:
+
+* Whole numbers are written with digits (9).
+* Decimal fractions are written with a dot (.) and not with a comma (5 tenths of a million dollars).
+* Time is written in the 24-hour format (no specific time mentioned, so I didn't modify it).
+* Currency is written in its standard form ($ million).
+* Unit of measurement is written as ""million"" without abbreviation.
+* There were no abbreviations or initials to be normalized."	В первый день показа фильм собрал девять целых и пять десятых миллиона долларов сэ ш а в одиннадцати зарубежных странах.	В первый день показа фильм собрал $95 млн в одиннадцати зарубежных странах.	311523	MONEY

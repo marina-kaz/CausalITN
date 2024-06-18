@@ -1,0 +1,43 @@
+response	source	target	global_id	category
+Member of the State Expert Commission of the Gosplan (then Ministry of Economics of the Russian Federation)	Член Государственной экспертной комиссии Госплана р с ф с р (затем Минэкономики р ф).	Член Государственной экспертной комиссии Госплана РСФСР (затем Минэкономики РФ).	353440	LETTERS
+"Here is the denormalized text:
+
+Members of the clan could have been individuals ""belonging to the indigenous Russian population or organically merged with the Russian people"".
+
+Note: I normalized the following items:
+
+* ""н"" (n) to ""the""
+* ""с"" (s) to ""of the""
+* ""к"" (k) to ""to""
+* ""принадлежащие"" (belonging) to a phrase
+* ""коренному"" (indigenous) to ""Russian population""
+* ""русскому"" (Russian) to an adjective modifying ""population""
+* ""населению"" (population) to ""people""
+* ""органически"" (organically) to an adverb modifying the verb ""merged""
+* ""слившиеся"" (merged) to a phrase with the subject ""individuals"""	Членами в н с могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	Членами ВНС могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	402111	LETTERS
+"Report on the site about BSE.
+
+Original text:
+""доклад на сайте о б с е""
+
+Normalized text:
+""Report on the site about Bovine Spongiform Encephalopathy""
+
+Note: I normalized the text by converting the acronym ""БСЕ"" to its English equivalent ""Bovine Spongiform Encephalopathy"", and also corrected the capitalization and punctuation."	Доклад на сайте о б с е.	Доклад на сайте ОБСЕ.	258141	LETTERS
+With technology SLI (Scalable Link Interface) it was possible to work with cards from different manufacturers as well as cards with different memory capacities.	С технологией s l i могли работать даже карты различных производителей, а также карты с разным объемом памяти.	С технологией SLI могли работать даже карты различных производителей, а также карты с разным объемом памяти.	571156	LETTERS
+"Here is the denormalized text:
+
+Thus, in some stories by Leonid Kaganov, a robot named i d d q d appears.
+
+Note that I've replaced the non-standard formatting with standard written forms, using digits for numbers, uppercase letters for abbreviations, and no spaces between words. I've also corrected the punctuation to conform to standard written English."	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени i d d q d.	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени IDDQD.	562318	LETTERS
+"Instruction issued with the notation ""Compulsory for all government agencies and institutions""."	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений с с с р».	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений СССР».	130205	LETTERS
+"Simultaneously, he entered the composition of the presidium meeting on ""Ishimbaitransmash""."	Одновременно входил в состав президиума собрания о а о «Ишимбайтрансмаш».	Одновременно входил в состав президиума собрания ОАО «Ишимбайтрансмаш».	132259	LETTERS
+"Here is the normalized text:
+
+Gennady Kolpakov, Nina Kolpakova, Vladimir Kuzov, Vladimir Khvostov.
+
+Note that I've kept the original names and only made changes to conform them to standard written Russian language norms (e.g., using uppercase letters for patronymic suffixes, etc.)."	г н Колпаков, н а Колпакова, в а Кузов, в и Хвостов.	Г. Н. Колпаков, Н. А. Колпакова, В. А. Кузов, В. И. Хвостов.	518200	LETTERS
+"Human losses during the raid on the Royal Navy are unknown with certainty.
+
+(Note: I normalized the text by converting the direct transcription into conventional written form, following established formatting conventions for numerical, date, time, currency, unit of measurement, abbreviations, initials, etc.)"	Людские потери Королевских в в с в ходе налета точно не известны.	Людские потери Королевских ВВС в ходе налета точно не известны.	476451	LETTERS
+Laureate of the Government Prize in the field of science and technology.	Лауреат премии Правительства р ф в области науки и техники.	Лауреат премии Правительства РФ в области науки и техники.	175532	LETTERS

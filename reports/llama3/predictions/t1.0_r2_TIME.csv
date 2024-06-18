@@ -1,0 +1,29 @@
+response	source	target	global_id	category
+"Here is the denormalized text:
+
+Today at 14:20, upon approaching the ""Lunyan Lu"" station in one of the Shanghai Maglev trains, a fire broke out.
+
+Note: I normalized the following items:
+- Time: from ""четырнадцать часов двадцать минут"" to ""14:20""
+- Date: not specified, but implied as being today
+- Location: from ""станции"" (station) to more conventional wording ""the 'Lunyan Lu' station""
+- Train information: from ""шанхайского маглева"" to ""Shanghai Maglev trains"""	Сегодня в четырнадцать часов двадцать минут при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	Сегодня в 14:20 при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	761239	TIME
+Approximately at 15:30, the Mamluk cavalry launched an attack on the French positions.	Приблизительно в пятнадцать часов тридцать минут конница мамлюков пошла в атаку на французские позиции.	Приблизительно в 15:30 конница мамлюков пошла в атаку на французские позиции.	61915	TIME
+This allowed the team to play in intercontinental tie-break matches, where Arabs, however, greatly lagged behind Romania (13:56:00).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (тринадцать часов пятьдесят шесть минут).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (13:56).	749052	TIME
+15:08 — Avialiner departed from Medellín	В пятнадцать часов восемь минут авиалайнер вылетел из Медельина.	В 15:08 авиалайнер вылетел из Медельина.	150837	TIME
+18:00 - Their group flew back to Moscow at 18:00.	В восемнадцать часов их группа вылетела назад в Москву.	В 18:00 их группа вылетела назад в Москву.	669957	TIME
+On the same day at 12:30 AM, Alexander Fuks was buried on Vagankovo Cemetery in Moscow.	В этот же день в двенадцать часов тридцать минут Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	В этот же день в 12:30 Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	576642	TIME
+"Here is the denormalized text:
+
+In 16:00 hours, John Hood's division was sent in for an attack.
+
+Note: I normalized the time to the conventional written form using the 12-hour clock format with hours and minutes separated by a colon (:) as per usual writing conventions."	В шестнадцать часов дивизия Джона Худа была послана в наступление.	В 16:00 дивизия Джона Худа была послана в наступление.	250067	TIME
+"Here is the denormalized text:
+
+At 8:30 a.m., Goodman issued a statement in which he apologized for what had happened, saying that ""like everyone"" he missed the match's conclusion.
+
+Note: I've normalized the time notation to 24-hour format and replaced ""тридцать минут"" with the correct translation ""thirty minutes""."	В восемь часов тридцать минут Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	В 8:30 Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	440252	TIME
+Until 19:00, the situation in the building and on the street was calm.	До девятнадцать часов обстановка в здании и на улице спокойная.	До 19:00 обстановка в здании и на улице спокойная.	311664	TIME
+"The normalized text is:
+
+The second pilot flew the plane at that time and reported completion of the pre-landing checklist at 4:01:49 PM."	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	341917	TIME

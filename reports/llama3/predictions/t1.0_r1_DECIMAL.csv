@@ -1,0 +1,33 @@
+response	source	target	global_id	category
+"The normalized text is:
+
+Average size of a household was 2 whole and 32 tenths of people, average size of a family – 2 whole and 74 tenths of people."	Средний размер домашнего хозяйства составил две целых и тридцать две сотых человека, средний размер семьи — две целых и семьдесят четыре сотых человека.	Средний размер домашнего хозяйства составил 2,32 человека, средний размер семьи — 2,74 человека.	622227	DECIMAL
+"The normalized text would be:
+
+Average household size is 2 and 44/100 people, and average family size is 2 and 90/100 people.
+
+Note: I have kept the numbers in the original format to maintain accuracy, but if you want to convert them to a decimal format (e.g., 2.44 for the household size), please let me know!"	Средний размер домашнего хозяйства составляет две целых и сорок четыре сотых человека, и средний размер семьи двух целых и девяноста четырех сотых человека.	Средний размер домашнего хозяйства составляет 2,44 человека, и средний размер семьи 2,94 человека.	160909	DECIMAL
+"The denormalized text is:
+
+With the onset of the Great Patriotic War, Belarus was evacuated with 10 whole and 7 tenths thousand workers and employees, members of their families.
+
+Note: I normalized the numbers as per the task requirement, converting the fraction ""семь десятых тысяча"" to a decimal equivalent (7/10)."	С началом Великой Отечественной войны из Беларуси были эвакуированы десять целых и семь десятых тысячи рабочих и служащих, членов их семей.	С началом Великой Отечественной войны из Беларуси были эвакуированы 10,7 тысячи рабочих и служащих, членов их семей.	166849	DECIMAL
+Средний размер домашнего хозяйства составляет 2,29 человека, и средний размер семьи 2,88 человека.	Средний размер домашнего хозяйства составляет две целых и двадцать девять сотых человека, и средний размер семьи двух целых и восьмидесяти восьми сотых человека.	Средний размер домашнего хозяйства составляет 2,29 человека, и средний размер семьи 2,88 человека.	692931	DECIMAL
+Average household size is 48.8 people, and family size is 94.8 people.	Средний размер домохозяйства — две целых и сорок восемь сотых, а семьи — две целых и девяносто четыре сотых человека.	Средний размер домохозяйства — 2,48, а семьи — 2,94 человека.	171859	DECIMAL
+"Average household size was 2 and 50/100 people, while average family size was 3 and 40/100 people.
+
+Note: I've maintained the original proportions of the numbers (e.g., ""десять с половиной"" becomes ""50/100"", rather than rounding to a whole number)."	Средний размер домашнего хозяйства составил две целых и пятьдесят сотых человек, а средний размер семьи — три целых и четыре сотых человек.	Средний размер домашнего хозяйства составил 2,50 человек, а средний размер семьи — 3,04 человек.	190538	DECIMAL
+Average household size was 2.65 people, and average family size was 3.23 people.	Средний размер домашнего хозяйства составил две целых и шестьдесят пять сотых человек, а средний размер семьи — три целых и двадцать три сотых человек.	Средний размер домашнего хозяйства составил 2,65 человек, а средний размер семьи — 3,23 человек.	259920	DECIMAL
+"The denormalized text is:
+
+Length of the head is one whole and four tenths times greater than the distance from the tip of the tongue to the mouth.
+
+Note: I've used standard written forms for numbers (one whole), dates, time, currencies, units of measurement, abbreviations, initials, etc."	Длина головы в одну целую и четыре десятых раза превышает расстояние от кончика рыла до рта.	Длина головы в 1,4 раза превышает расстояние от кончика рыла до рта.	126096	DECIMAL
+"Here is the normalized text:
+
+A stable atmosphere is considered one where the average speed of molecules does not exceed zero whole and two tenths critical.
+
+Note: I have followed the standard formatting for numbers, units of measurement, abbreviations, etc., as per the provided norms. Let me know if you need any further assistance!"	Устойчивой считается атмосфера, средняя скорость молекул которой не превышает ноль целых и две десятых критической.	Устойчивой считается атмосфера, средняя скорость молекул которой не превышает 0,2 критической.	376644	DECIMAL
+"The denormalized text is:
+
+A disparity of one whole and seventy-two hundredths million was dubbed a ""two-million surplus"" in newspapers."	Сложившуюся разницу в одну целую и семьдесят две сотых миллиона в газетах нарекли «двухмиллионный излишек».	Сложившуюся разницу в 1,72 млн в газетах нарекли «двухмлный излишек».	475758	DECIMAL
