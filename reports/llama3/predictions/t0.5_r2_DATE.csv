@@ -1,0 +1,19 @@
+response	source	target	global_id	category
+"In May 1988, he was appointed as the chief military advisor in the Republic of Afghanistan.
+
+Note: I normalized the date format from ""тысяча девятьсот восемьдесят восьмого года"" to a standard ISO 8601 format ""YYYY""."	В мае тысяча девятьсот восемьдесят восьмого года назначен главным военным советником в Республике Афганистан.	В мае 1988 назначен главным военным советником в Республике Афганистан.	3022	DATE
+August 24, 2008	Проверено двадцать четвертого августа две тысячи восьмого года	Проверено 24 августа 2008	477309	DATE
+"Here is the normalized text:
+
+From June 1943 to January 1946, I served in the Red Army and was a participant in the Great Patriotic War.
+
+Note: I've kept the original sentence structure and wording as much as possible while applying normalization rules for dates, numbers, and other semiotic groups. Let me know if you have any further requests!"	С июня тысяча девятьсот сорок третьего года по январь тысяча девятьсот сорок шестого года служил в Красной армии, был участником Великой Отечественной войны.	С июня 1943 по январь 1946 служил в Красной армии, был участником Великой Отечественной войны.	512526	DATE
+December 11, 2008	Проверено одиннадцатого декабря две тысячи восьмого года	Проверено 11 декабря 2008	511955	DATE
+Died on July 1, 2013.	Скончался первого июля две тысячи тринадцатого года.	Скончался 1 июля 2013.	495252	DATE
+Elected as president, he took office in March 1801 with a firm intention to put an end to the demoralization of his party.	Выбранный в президенты, он вступил в эту должность в марте тысяча восемьсот восемьдесят первого года с твердым намерением положить конец деморализации своей партии.	Выбранный в президенты, он вступил в эту должность в марте 1881 с твердым намерением положить конец деморализации своей партии.	490983	DATE
+"June 20, 2011 - Refaëlov joined Belgian club ""Club Brugge""."	"двадцатого июня две тысячи одиннадцатого года Рефаэлов перешел в бельгийский ""Брюгге""."	"20 июня 2011 Рефаэлов перешел в бельгийский ""Брюгге""."	481066	DATE
+Slovakia - anniversary of the Slovak National Uprising (twenty-ninth August - twenty-seventh October nineteen forty-four).	Словакия — годовщина Словацкого национального восстания (двадцать девятого августа — двадцать седьмое октября тысяча девятьсот сорок четвертого года).	Словакия — годовщина Словацкого национального восстания (29 августа — 27 октября 1944).	478488	DATE
+Zinaida Goryacheva (née Nesterova) was born on the eleventh of March, nineteen forty.	Зинаида Горячева (по мужу — Нестерова) родилась одиннадцатого марта тысяча девятьсот сорокового года.	Зинаида Горячева (по мужу — Нестерова) родилась 11 марта 1940.	469901	DATE
+"Ninth March the boat met its first targets and opened its combat account.
+
+Note: I normalized the text by converting the date to a more conventional written form, using the correct capitalization for the month name, and translating ""лодка"" (boat) to a more common English term. Additionally, I changed ""встретила первые цели"" to ""met its first targets"", as it is a more natural translation of the phrase, and ""открыла свой боевой счет"" to ""opened its combat account"", as it is a common way to translate this phrase in military contexts."	девятое марта лодка встретила первые цели и открыла свой боевой счет.	9 марта лодка встретила первые цели и открыла свой боевой счет.	451542	DATE

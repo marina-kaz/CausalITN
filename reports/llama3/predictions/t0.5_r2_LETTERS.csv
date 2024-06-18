@@ -1,0 +1,28 @@
+response	source	target	global_id	category
+Member of the State Expert Commission of Gosplan RSFSR (later Ministry of Economy of RF)	Член Государственной экспертной комиссии Госплана р с ф с р (затем Минэкономики р ф).	Член Государственной экспертной комиссии Госплана РСФСР (затем Минэкономики РФ).	353440	LETTERS
+Members of the nation could include individuals belonging to the indigenous Russian population or organically merged with the Russian people.	Членами в н с могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	Членами ВНС могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	402111	LETTERS
+"Here is the normalized text:
+
+Report on site about b s e.
+
+Note: I've kept the original text as it was, since it doesn't contain any denormalized semiotic groups that need to be processed (e.g., dates, times, numbers, etc.). If you'd like me to process a specific example or provide more information on how to normalize certain types of data, please let me know!"	Доклад на сайте о б с е.	Доклад на сайте ОБСЕ.	258141	LETTERS
+"With technology SLI (Scalable Link Interface) cards from various manufacturers could work together, as well as cards with different memory volumes.
+
+(Note: I normalized the text to conform to standard written Russian language conventions.)"	С технологией s l i могли работать даже карты различных производителей, а также карты с разным объемом памяти.	С технологией SLI могли работать даже карты различных производителей, а также карты с разным объемом памяти.	571156	LETTERS
+"Here is the normalized text:
+
+Так в некоторых рассказах Леонида Каганова фигурирует робот по имени I.D.D.Q.D.
+
+I normalized the text by converting the robot's name to uppercase and removing any unnecessary spaces or punctuation. The rest of the text remained unchanged, as it did not belong to any denormalizable semiotic classes."	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени i d d q d.	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени IDDQD.	562318	LETTERS
+"Here is the denormalized text:
+
+Instruction issued with the seal ""Compulsory for all government agencies and institutions"".
+
+Note: I normalized the Cyrillic abbreviation ""с с"" to its English equivalent ""and"", as it is a common practice in written Russian."	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений с с с р».	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений СССР».	130205	LETTERS
+"Simultaneously entered the composition of the presidium meeting on ""Ishimbaitransmash""."	Одновременно входил в состав президиума собрания о а о «Ишимбайтрансмаш».	Одновременно входил в состав президиума собрания ОАО «Ишимбайтрансмаш».	132259	LETTERS
+"Колпаков ГН,
+Колпакова Н А,
+Кузов В А,
+Хвостов В И."	г н Колпаков, н а Колпакова, в а Кузов, в и Хвостов.	Г. Н. Колпаков, Н. А. Колпакова, В. А. Кузов, В. И. Хвостов.	518200	LETTERS
+Human losses in the Royal Navy during the raid are unknown with certainty.	Людские потери Королевских в в с в ходе налета точно не известны.	Людские потери Королевских ВВС в ходе налета точно не известны.	476451	LETTERS
+Winner of the Government Prize in the field of science and technology.	Лауреат премии Правительства р ф в области науки и техники.	Лауреат премии Правительства РФ в области науки и техники.	175532	LETTERS

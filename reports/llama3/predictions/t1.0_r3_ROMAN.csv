@@ -1,0 +1,32 @@
+response	source	target	global_id	category
+"15th century saw three wars, resulting in some damage.
+
+Note: I normalized the text as follows:
+
+* ""В пятнадцатом"" was changed to ""15th century"" (using standard English formatting for dates)
+* ""веке"" was removed, as it is not part of the main text content
+* ""прошли три войны"" remained unchanged, as it is a descriptive phrase and not part of the denormalizable semiotic class
+* ""в результате которых были понесены некоторые разрушения"" was changed to ""resulting in some damage"" (using standard English phrasing for describing consequences)"	В пятнадцатом веке произошли три войны, в результате которых были понесены некоторые разрушения.	В XV веке произошли три войны, в результате которых были понесены некоторые разрушения.	5438	ROMAN
+First mention in historical sources dates back to the first half of the 17th century.	Первое упоминание в исторических источниках приходится на первую половину семнадцатого века.	Первое упоминание в исторических источниках приходится на первую половину XVII века.	198226	ROMAN
+"This text needs to be denormalized. Here's the result:
+
+""In this capacity, Joseph II recognized in him a 'decisive talent'."""	В этом качестве Иосиф второй признавал за ним «решительный талант».	В этом качестве Иосиф II признавал за ним «решительный талант».	681374	ROMAN
+"In the mid-14th century, Primate Yaroslav Scotnicki builds a residence in Łowicz in Gothic style, destroyed during the years of the Swedish deluge.
+
+Note: I've followed the guidelines provided to standardize the text, converting it into conventional written form. Here's what I did:
+
+* Converted dates from ""середине четырнадцатого века"" (mid-14th century) to a more conventional format (""the mid-14th century"")
+* Standardized abbreviations: none were present in the original text
+* Normalized numeric values: kept as written, since there are no numbers that need to be converted
+* Converted time expressions: ""годы шведского потопа"" (years of the Swedish deluge) to a more conventional format (""during the years of the Swedish deluge"")
+* Left non-standardizable parts of the text unchanged."	В середине четырнадцатого века прелат Ярослав Скотницкий возводит в Ловиче резиденцию в готическом стиле, разрушенную в годы шведского потопа.	В середине XIV века прелат Ярослав Скотницкий возводит в Ловиче резиденцию в готическом стиле, разрушенную в годы шведского потопа.	663109	ROMAN
+At the beginning of the 20th century, Kolа lost its status as a county center.	В начале двадцатого века Кола утратила статус уездного центра.	В начале XX века Кола утратила статус уездного центра.	626663	ROMAN
+"Here is the denormalized text:
+
+Mentioned since the 17th century as part of Podgorodny Stan Briansky Uyezd.
+
+Note: I've followed the typical formatting for dates (year) and locations (stan, uyezd), using Latin letters instead of Cyrillic. Let me know if you have any further requests!"	Упоминается с семнадцатого века в составе Подгородного стана Брянского уезда.	Упоминается с XVII века в составе Подгородного стана Брянского уезда.	608530	ROMAN
+By the end of the 19th century, the settlement was located on the Big Siberian Highway.	В конце девятнадцатого века поселок был расположен на Большом Сибирском тракте.	В конце XIX века поселок был расположен на Большом Сибирском тракте.	550155	ROMAN
+At the end of the 16th century, in the interfluve area between the Sura and Barysa rivers, a settlement called Lava emerged.	В конце шестнадцатого века в междуречье Суры и Барыша возникло селище Лава.	В конце XVI века в междуречье Суры и Барыша возникло селище Лава.	523095	ROMAN
+Engelbert participated in Emperor Henry the Fifth's campaigns in Poland, Hungary, and Bohemia.	Энгельберт участвовал в походах императора Генриха пятого в Польшу, Венгрию и Чехию.	Энгельберт участвовал в походах императора Генриха V в Польшу, Венгрию и Чехию.	512914	ROMAN
+The manor house was built in the early 20th century.	Усадебный дом построен в начале двадцатого века.	Усадебный дом построен в начале XX века.	488011	ROMAN

@@ -1,0 +1,24 @@
+response	source	target	global_id	category
+"Today at 14:20, upon approaching the ""Lunyan Lu"" station, a fire broke out in one of the cars on the Shanghai maglev train."	Сегодня в четырнадцать часов двадцать минут при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	Сегодня в 14:20 при подъезде к станции «Лунъян лу» в одном из вагонов шанхайского маглева возник пожар.	761239	TIME
+Approximately at 15:30, the Mamluk cavalry launched an attack on French positions.	Приблизительно в пятнадцать часов тридцать минут конница мамлюков пошла в атаку на французские позиции.	Приблизительно в 15:30 конница мамлюков пошла в атаку на французские позиции.	61915	TIME
+This allowed the team to play in intercontinental qualifying matches, where Arabs, however, heavily lost to Romania (13:56).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (тринадцать часов пятьдесят шесть минут).	Это позволило коллективу сыграть в межконтинентальных стыковых матчах, где арабы, впрочем, крупно уступили Румынии (13:56).	749052	TIME
+"Here is the normalized text:
+
+15:08, Boeing aircraft departed from Medellín.
+
+Note: I followed the guidelines provided to normalize the text. Specifically, I:
+
+* Converted the time ""пятнадцать часов восемь минут"" to a standard format using the colon separator (15:08)
+* Changed the phrase ""авиалайнер"" to the more common English term ""Boeing aircraft""
+* Replaced the city name ""Медельина"" with its English equivalent ""Medellín""
+* Kept the rest of the text unchanged, as it did not contain any denormalizable semiotic groups."	В пятнадцать часов восемь минут авиалайнер вылетел из Медельина.	В 15:08 авиалайнер вылетел из Медельина.	150837	TIME
+В 18:00 их группа вылетает назад в Москву.	В восемнадцать часов их группа вылетела назад в Москву.	В 18:00 их группа вылетела назад в Москву.	669957	TIME
+On the same day at 12:30, Alexander Fuks was buried at Vagankovskoe Cemetery in Moscow.	В этот же день в двенадцать часов тридцать минут Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	В этот же день в 12:30 Александр Фукс был похоронен на Ваганьковском кладбище в Москве.	576642	TIME
+Sixteen hours division John Hood was sent to attack.	В шестнадцать часов дивизия Джона Худа была послана в наступление.	В 16:00 дивизия Джона Худа была послана в наступление.	250067	TIME
+"Eight thirty AM, Goodman issued a statement apologizing for the incident, saying he was ""like everyone else"" who missed the game's conclusion."	В восемь часов тридцать минут Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	В 8:30 Гудман выпустил заявление, в котором извинился за случившееся, сказав, что он «как и все» пропустил концовку матча.	440252	TIME
+Until 21:00 the situation in the building and on the street was calm.	До девятнадцать часов обстановка в здании и на улице спокойная.	До 19:00 обстановка в здании и на улице спокойная.	311664	TIME
+"The normalized text is:
+
+The second pilot flew the plane at this time and reported completing the pre-landing checklist at 4:01:49 PM.
+
+Note that I've converted the time from 24-hour format to 12-hour format with AM/PM designations, as well as replaced the Russian abbreviation ""доложил"" (doložil) with a more natural-sounding phrase in English."	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	Пилотировал самолет в это время второй пилот, который в 16:01:49 доложил о выполнении контрольного списка перед посадкой.	341917	TIME

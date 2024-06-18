@@ -1,0 +1,29 @@
+response	source	target	global_id	category
+Portuguese national team has secured first place and a spot in the quarterfinals ahead of schedule.	Сборная Португалии досрочно обеспечила себе первое место и выход в одну четвертую финала.	Сборная Португалии досрочно обеспечила себе первое место и выход в 1/4 финала.	125586	FRACTION
+"The normalized text is:
+
+The northern entrance to the tomb is adorned with dome-shaped gates that make up two-thirds of the height of the tomb.
+
+Note: I've kept the original sentence structure and wording as much as possible while applying the normalization rules for dates, times, currencies, units of measurement, abbreviations, initials, etc."	Северный вход в гробницу украшен купольными воротами, которые составляют две третьих высоты гробницы.	Северный вход в гробницу украшен купольными воротами, которые составляют 2/3 высоты гробницы.	499815	FRACTION
+One sixteenth of the final.	одна шестнадцатая финала.	1/16 финала.	662964	FRACTION
+Second part of the range: 1:22.8	второй диапазон: одна вторая, одна шестидесятая, одна восьмая сек.	второй диапазон: 1/2, 1/60, 1/8 сек.	631578	FRACTION
+"Music rhythmic structures: Two-fourths, Four-fourths, Eight-fourths. Rhythmic pulse is elastic and impulsive with frequent syncopations.
+
+Note: I've maintained the original text's structure and wording as much as possible while applying standard formatting for written language. The only changes made were to replace abbreviations (e.g., ""четвертых"" -> ""fourths"") and add a few words to clarify the meaning, where necessary."	Музыкальные размеры две четвертых, четыре четвертых, восемь четвертых. Ритмика упругая, импульсивная, с частыми синкопами.	Музыкальные размеры 2/4, 4/4, 8/4. Ритмика упругая, импульсивная, с частыми синкопами.	614160	FRACTION
+One quarter and one second final.	одна четвертая и одна вторая финала.	1/4 и 1/2 финала.	605005	FRACTION
+"Here is the normalized text:
+
+Approximately two-thirds of processor time was used to form an image, which, of course, significantly affected the machine's performance.
+
+Note: I've followed the standard formatting for dates, times, and other semiotic groups as per your request. Let me know if you need any further assistance!"	Примерно две третьих процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	Примерно 2/3 процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	601149	FRACTION
+"The normalized text is:
+
+Width of the strip (with white lines) is one-seventh of the length of the canvas.
+
+Note: I've kept the original sentence structure and wording, only making changes to conform to conventional written language norms."	Габаритная ширина полосы (с белыми линиями) составляет одну седьмую от длины полотнища.	Габаритная ширина полосы (с белыми линиями) составляет 1/7 от длины полотнища.	202528	FRACTION
+"The denormalized text is:
+
+A satiated sloth has two-thirds of its body weight that can be attributed to food in the stomach.
+
+Note: I normalized the text by converting the DOS-style notation ""У сытого ленивца"" into a conventional written form, and also replaced the phrase ""две третьих веса тела"" with the equivalent phrase in English. Additionally, I changed the word ""может приходиться на"" to the more natural phrase ""that can be attributed to""."	У сытого ленивца две третьих веса тела может приходиться на еду в желудке.	У сытого ленивца 2/3 веса тела может приходиться на еду в желудке.	548773	FRACTION
+One hundred twenty-fifth second.	Выдержка синхронизации — одна сто двадцать пятая сек.	Выдержка синхронизации — 1/125 сек.	491910	FRACTION

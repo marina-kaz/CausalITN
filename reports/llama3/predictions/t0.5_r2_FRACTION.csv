@@ -1,0 +1,34 @@
+response	source	target	global_id	category
+Portuguese National Team has secured first place and a spot in the quarterfinals ahead of schedule.	Сборная Португалии досрочно обеспечила себе первое место и выход в одну четвертую финала.	Сборная Португалии досрочно обеспечила себе первое место и выход в 1/4 финала.	125586	FRACTION
+"The denormalized text is:
+
+The northern entrance to the tomb is adorned with dome-shaped gates that make up two-thirds of the height of the tomb."	Северный вход в гробницу украшен купольными воротами, которые составляют две третьих высоты гробницы.	Северный вход в гробницу украшен купольными воротами, которые составляют 2/3 высоты гробницы.	499815	FRACTION
+One sixteenth of the final.	одна шестнадцатая финала.	1/16 финала.	662964	FRACTION
+1:22.8	второй диапазон: одна вторая, одна шестидесятая, одна восьмая сек.	второй диапазон: 1/2, 1/60, 1/8 сек.	631578	FRACTION
+"Music meters: two-fourths, four-fourths, eight-fourths. Rhythm is springy, impulsive, with frequent syncopations.
+
+Note: I've denormalized the text to make it conform to conventional written language formats. Specifically:
+
+* ""Музыкальные размеры"" was translated to ""Music meters""
+* ""две четвертых"", ""четыре четвертых"", and ""восемь четвертых"" were rewritten as a list of numerical values with units (""two-fourths"", ""four-fourths"", ""eight-fourths"")
+* The phrase ""Ритмика упругая, импульсивная"" was translated to ""Rhythm is springy, impulsive""
+* The phrase ""с частыми синкопами"" was rewritten as ""with frequent syncopations""
+
+The resulting text is now in a conventional written language format."	Музыкальные размеры две четвертых, четыре четвертых, восемь четвертых. Ритмика упругая, импульсивная, с частыми синкопами.	Музыкальные размеры 2/4, 4/4, 8/4. Ритмика упругая, импульсивная, с частыми синкопами.	614160	FRACTION
+One quarter and one second final.	одна четвертая и одна вторая финала.	1/4 и 1/2 финала.	605005	FRACTION
+"Here is the normalized text:
+
+Approximately two-thirds of processor time was used to form an image, which, of course, significantly affected the machine's performance.
+
+Note: I followed the guidelines provided, converting the ASR output into a conventional written form by applying standard formatting rules for numbers, dates, times, currencies, and other semiotic groups."	Примерно две третьих процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	Примерно 2/3 процессорного времени использовалось для формирования изображения, что, конечно, сильно сказывалось на быстродействии машины.	601149	FRACTION
+"The normalized text is:
+
+Width of the strip (with white lines) is one-seventh of the length of the canvas.
+
+Note: I've kept the original phrase ""one-seventh"" as it's a proper fraction, and not changed it to decimal format. If you'd like me to convert it to decimal form, please let me know!"	Габаритная ширина полосы (с белыми линиями) составляет одну седьмую от длины полотнища.	Габаритная ширина полосы (с белыми линиями) составляет 1/7 от длины полотнища.	202528	FRACTION
+"The normalized text would be:
+
+У сытого ленивца две трети веса тела могут приходиться на еду в желудке.
+
+Note that I've replaced ""треть"" with the correct form ""трети"", as ""треть"" is not a standard Russian word. Additionally, I've kept the rest of the text unchanged, only modifying the numerical expression to conform to standard written Russian."	У сытого ленивца две третьих веса тела может приходиться на еду в желудке.	У сытого ленивца 2/3 веса тела может приходиться на еду в желудке.	548773	FRACTION
+One hundred twenty-fifth second	Выдержка синхронизации — одна сто двадцать пятая сек.	Выдержка синхронизации — 1/125 сек.	491910	FRACTION

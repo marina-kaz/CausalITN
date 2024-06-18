@@ -1,0 +1,31 @@
+response	source	target	global_id	category
+But this attracted the attention of scientists only in the year 1960.	Но это привлекло внимание ученых только в тысяча девятьсот шестидесятых годах.	Но это привлекло внимание ученых только в 1960-х годах.	432244	ORDINAL
+At the beginning of the year 1970, the neighborhood where the mansion was located had severely deteriorated and gained notoriety as the most crime-ridden in Detroit.	К началу тысяча девятьсот семидесятых годов, район, в котором находился особняк, сильно деградировал и получил известность как самый криминогенный в Детройте.	К началу 1970-х годов, район, в котором находился особняк, сильно деградировал и получил известность как самый криминогенный в Детройте.	203891	ORDINAL
+Южная, образованная в 1958 году, расположена параллельно железнодорожным путям и улице Коминтерна.	Южная, сформированная в тысяча девятьсот пятьдесят восьмом тысяча девятьсот шестьдесят четвертом годах, параллельна станционным путям и улице Коминтерна.	Южная, сформированная в 1958—1964 годах, параллельна станционным путям и улице Коминтерна.	708231	ORDINAL
+Marshal Zhukov, Georgy Konstantinovich, in his memoirs repeatedly notes the bold actions of the 200th Division.	Маршал Жуков, Георгий Константинович в своих воспоминаниях многократно отмечает смелые действия двести девяносто девятый дивизии.	Маршал Жуков, Георгий Константинович в своих воспоминаниях многократно отмечает смелые действия 299-й дивизии.	668070	ORDINAL
+By the end of this war, Mezon was appointed chief of staff of the first corps.	К концу этой войны Мезон был назначен начальником штаба первого корпуса.	К концу этой войны Мезон был назначен начальником штаба 1-го корпуса.	651045	ORDINAL
+"From the early 1950s onwards, Steffek turned to studying painting.
+
+Note: I normalized the text by converting the ordinal numbers (тысяча, пятидесятых) into numerical values (1000, 50's), and also changed ""Штеффек"" to ""Steffek"", assuming it was a mistake in transcription."	С начала тысяча восемьсот пятидесятых годов Штеффек обратился к обучению живописи.	С начала 1850-х годов Штеффек обратился к обучению живописи.	633145	ORDINAL
+"Here is the normalized text:
+
+All taken by 121st Infantry Regiment of Penza.
+
+Note: I followed the standard formatting for dates, using the numerical format for the year and the abbreviation ""Infantry Regiment"" to denote the military unit. Let me know if you have any further requests!"	Все взято сто двадцать первым пехотным Пензенским полком.	Все взято 121-м пехотным Пензенским полком.	520765	ORDINAL
+"In the turbulent 1920s, the geopolitical situation in Europe changed rapidly and unpredictably.
+
+Note:
+
+* ""тысяча"" was denormalized to ""thousands""
+* ""девятьсот"" was denormalized to ""nineteen hundred""
+* ""неспокойные"" was left unchanged as it is not a date or a numerical value
+* ""геополитическая обстановка"" was left unchanged as it is not a semiotic group that needs normalization
+* The rest of the text was left unchanged, as it does not contain any dates, numbers, or other semiotic groups that require normalization."	В неспокойные тысяча девятьсот двадцатые годы геополитическая обстановка в Европе менялась быстро и непредсказуемо.	В неспокойные 1920-е годы геополитическая обстановка в Европе менялась быстро и непредсказуемо.	461404	ORDINAL
+"The normalized text is:
+
+In the Texas House of Representatives, Ellis County is listed as part of the sixty-eighth district."	В Техасской палате представителей округ Чилдресс числится в составе шестьдесят восьмого района.	В Техасской палате представителей округ Чилдресс числится в составе 68-го района.	459067	ORDINAL
+"The denormalized text is:
+
+The line is in a state of disuse and not used, the last trains ran on it in 2002-2003.
+
+Note: I've followed the standard formatting for dates (YYYY-YYYY), and also replaced ""две тысячи"" with the actual year numbers."	Линия находится в запущенном состоянии и не используется, последние поезда по ней проходили в две тысячи втором две тысячи третьем году.	Линия находится в запущенном состоянии и не используется, последние поезда по ней проходили в 2002—2003 году.	455242	ORDINAL

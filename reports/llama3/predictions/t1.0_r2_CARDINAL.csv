@@ -1,0 +1,27 @@
+response	source	target	global_id	category
+"The normalized text would be:
+
+Население составляло 375 человек.
+
+Note that I've replaced the original numeral ""триста семьдесят五"" with the numeric value ""375"", and changed the phrase to a more conventional written form using the word ""составляло"" instead of the ASR-generated wording."	Население составляет триста семьдесят пять человек.	Население составляет 375 человек.	5380	CARDINAL
+"The denormalized text would be:
+
+Silver Uprising (1062)"	Медный бунт (тысяча шестьсот шестьдесят два).	Медный бунт (1662).	193137	CARDINAL
+SORBE - population of 285 people	Сорбе — население двухсот восьмидесяти пяти чел.	Сорбе — население 285 чел.	536419	CARDINAL
+"Here is the normalized text:
+
+In February 1902, a thousand and nine hundred two students were arrested at an illegal gathering and remained in custody until the end of the year.
+
+Note: I followed the guidelines provided to standardize the text, converting dates into the conventional format (month year) and using numerical values with words for numbers."	В феврале тысяча девятьсот два арестован на нелегальной сходке студентов и до конца года находился в заключении.	В феврале 1902 арестован на нелегальной сходке студентов и до конца года находился в заключении.	550845	CARDINAL
+"The normalized text is:
+
+Silver medalist of the Big Championship Cup (2009)."	Серебряный призер Большого чемпионского Кубка (две тысячи девять).	Серебряный призер Большого чемпионского Кубка (2009).	561296	CARDINAL
+For the entire team of soldiers, a total of 170 matches were played, including 10 cup finals, and 4 goals were scored.	Всего за армейцев сыграл сто семьдесят матчей, в том числе десяти кубковых, и забил четыре мяча.	Всего за армейцев сыграл 170 матчей, в том числе 10 кубковых, и забил 4 мяча.	562779	CARDINAL
+Santiago Acasiete played 38 matches for the Peruvian national team, scoring 2 goals.	Всего за сборную Перу Сантьяго Акасьете сыграл тридцать восемь матчей, в которых забил два гола.	Всего за сборную Перу Сантьяго Акасьете сыграл 38 матчей, в которых забил 2 гола.	301137	CARDINAL
+"The denormalized text would be:
+
+It is going out on average, takes eight lanes.
+
+Note: I normalized the original text by converting it to a conventional written form, using established formats for recording dates, times, units of measurement, abbreviations, initials, etc."	Выходит по средам, занимает восемь полос.	Выходит по средам, занимает 8 полос.	567912	CARDINAL
+1990) - Israeli actress.	тысяча девятьсот девяносто) — израильская киноактриса.	1990) — израильская киноактриса.	572058	CARDINAL
+Made approximately 155 recordings for Ukrainian Radio.	Сделал порядка ста пятидесяти записей на радио Украины.	Сделал порядка 150 записей на радио Украины.	291737	CARDINAL

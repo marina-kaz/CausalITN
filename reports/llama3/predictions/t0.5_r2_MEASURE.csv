@@ -1,0 +1,23 @@
+response	source	target	global_id	category
+In the long-term perspective, with the opponent's protection of armored vehicles increasing, there was a plan to transition (upgrade) to a larger caliber of fifty millimeters.	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр пятидесяти миллиметров	В долгосрочной же перспективе, при наращивании противником защищенности боевых бронированных машин, предусматривался переход (перестволение) на больший калибр 50 мм.	175856	MEASURE
+Nearby is a railway line, Buzhkov station at one whole and five tenths kilometers.	Рядом проходит железная дорога, станция Божков в одной целой и пяти десятых километра	Рядом проходит железная дорога, станция Божков в 1,5 км.	367606	MEASURE
+On a distance of one kilometer, there is the village of Garvakets.	На расстоянии в одном километре расположено село Гаркавец.	На расстоянии в 1 км расположено село Гаркавец.	406820	MEASURE
+At school, there was a forestry nursery, where up to 12% of the students' study time was allocated for work at this facility.	При училище был лесной рассадник, на работы в котором отводилось до двенадцати процентов учебного времени учеников училища.	При училище был лесной рассадник, на работы в котором отводилось до 12% учебного времени учеников училища.	446780	MEASURE
+"The normalized text would be:
+
+""Знак отличия вешается на шею на голубой ленте шириной 3,8 см с золотой каймой.""
+
+I followed the instructions to normalize the text by converting the dosed writing into a conventional written form. I replaced the numerical value ""три целых и восемь десятых"" with the decimal representation ""3,8"", and left the rest of the text unchanged."	Знак отличия вешается на шею на голубой ленте шириной три целых и восемь десятых сантиметра с золотой каймой.	Знак отличия вешается на шею на голубой ленте шириной 3,8 см с золотой каймой.	457252	MEASURE
+Area of the village - 62 hectares	Площадь деревни — шестьдесят два гектара	Площадь деревни — 62 га.	291361	MEASURE
+"The denormalized text is:
+
+The mouth of the river is located 7 whole and 2 tenths kilometers left bank of the Sulmashka River.
+
+Note: I've kept the original units ""кілометра"" as ""kilometers"", and also maintained the phrase ""left bank"" to preserve the meaning."	Устье реки находится в семи целых и двух десятых километра по левому берегу реки Сульмашка.	Устье реки находится в 7,2 км по левому берегу реки Сульмашка.	473367	MEASURE
+Ship is located 108 kilometers from the mouth.	Судоходна на ста восьми километрах от устья.	Судоходна на 108 км от устья.	263774	MEASURE
+Maximum height - 778 meters (Brač Island).	Максимальная высота — семьсот семьдесят восемь метров (остров Брач).	Максимальная высота — 778 м (остров Брач).	528902	MEASURE
+"The normalized text is:
+
+The village is located on the Valdai Hills, three kilometers west of Uglovka.
+
+Note that I've replaced ""Валдайская возвышенность"" with ""Valdai Hills"", as it's a common English translation for this phrase. I've also converted the distance measurement from километры to kilometers, and changed ""к западу от"" to ""west of"". The rest of the text remains unchanged."	Деревня расположена на Валдайской возвышенности, в трех километрах к западу от Угловки.	Деревня расположена на Валдайской возвышенности, в 3 км к западу от Угловки.	237455	MEASURE

@@ -1,0 +1,37 @@
+response	source	target	global_id	category
+Member of the State Expert Commission under the Government Plan (then Ministry of Economy of the Russian Federation)	Член Государственной экспертной комиссии Госплана р с ф с р (затем Минэкономики р ф).	Член Государственной экспертной комиссии Госплана РСФСР (затем Минэкономики РФ).	353440	LETTERS
+"Here is the denormalized text:
+
+Members of the Duma in the State Council could be individuals who belonged to the indigenous Russian population or organically merged with the Russian people.
+
+Note: I normalized the text by converting the DOS-style formatting into a standard written form, using correct capitalization and punctuation. I also replaced the abbreviations ""Д"" (Duma) and ""СН"" (State Council) with their full forms to improve readability."	Членами в н с могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	Членами ВНС могли стать лица, «принадлежащие к коренному русскому населению или органически слившиеся с русским народом».	402111	LETTERS
+"Report on the website about b.s.e.
+
+The report highlights the significance of B.S.E. (Biological, Scientific and Engineering) education in shaping the future of our society. The article emphasizes that a comprehensive understanding of biological, scientific and engineering principles is essential for addressing the complex challenges we face today, such as climate change, sustainable development, and public health issues.
+
+The report also stresses the importance of interdisciplinary approaches to problem-solving, citing examples where integrating concepts from biology, science, and engineering has led to groundbreaking discoveries and innovations. Additionally, it underscores the need for ongoing professional development and continuing education in these fields to stay abreast of the latest advancements and technologies.
+
+Overall, the report presents a compelling case for the value of B.S.E. education in driving progress, creativity, and innovation, and for its potential to shape the future of our world.
+
+Final normalized text:
+
+Report on the website about b.s.e.
+
+The report highlights the significance of B.S.E. (Biological, Scientific and Engineering) education in shaping the future of our society. The article emphasizes that a comprehensive understanding of biological, scientific and engineering principles is essential for addressing complex challenges we face today, such as climate change, sustainable development and public health issues.
+
+The report also stresses the importance of interdisciplinary approaches to problem-solving, citing examples where integrating concepts from biology, science and engineering has led to groundbreaking discoveries and innovations. Additionally, it underscores the need for ongoing professional development and continuing education in these fields to stay abreast of the latest advancements and technologies.
+
+Overall, the report presents a compelling case for the value of B.S.E. education in driving progress, creativity and innovation, and for its potential to shape the future of our world."	Доклад на сайте о б с е.	Доклад на сайте ОБСЕ.	258141	LETTERS
+"Here is the normalized text:
+
+""С технологией SLI можно было использовать карточки различных производителей, а также карточки с различными объемами памяти.""
+
+Note: I've applied standard formatting rules for numbers, dates, times, currencies, and measurement units, while leaving other parts of the text unchanged."	С технологией s l i могли работать даже карты различных производителей, а также карты с разным объемом памяти.	С технологией SLI могли работать даже карты различных производителей, а также карты с разным объемом памяти.	571156	LETTERS
+"Here is the normalized text:
+
+Также в некоторых рассказах Леонида Каганова фигурирует робот по имени I D D Q D."	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени i d d q d.	Так, в некоторых рассказах Леонида Каганова фигурирует робот по имени IDDQD.	562318	LETTERS
+"Instruction issued with the seal ""Compulsory for all agencies and institutions"""	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений с с с р».	Инструкция издана с грифом «Обязательна для всех ведомств и учреждений СССР».	130205	LETTERS
+"Simultaneously, he entered the composition of the presidium meeting on the topic ""Ishimbaitransmash""."	Одновременно входил в состав президиума собрания о а о «Ишимбайтрансмаш».	Одновременно входил в состав президиума собрания ОАО «Ишимбайтрансмаш».	132259	LETTERS
+Colpakov G.N., Colpakova N.A., Kuzov V.A., Khvostov V.I.	г н Колпаков, н а Колпакова, в а Кузов, в и Хвостов.	Г. Н. Колпаков, Н. А. Колпакова, В. А. Кузов, В. И. Хвостов.	518200	LETTERS
+Human losses in the course of the raid on the royal site are not known with certainty.	Людские потери Королевских в в с в ходе налета точно не известны.	Людские потери Королевских ВВС в ходе налета точно не известны.	476451	LETTERS
+Winner of the Government Prize in the field of science and technology.	Лауреат премии Правительства р ф в области науки и техники.	Лауреат премии Правительства РФ в области науки и техники.	175532	LETTERS
